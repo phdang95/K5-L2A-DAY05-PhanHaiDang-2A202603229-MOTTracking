@@ -7,7 +7,7 @@
 - Họ tên: Phan Hải Đăng
 - MSSV: 2A202603229
 - Mã đề (A/B/C): A
-- Email: phdang95@gmail.com
+- Email: 26ai.dangph4@vinuni.edu.vn
 - Link repository: https://github.com/phdang95/K5-L2A-DAY05-PhanHaiDang-2A202603229-MOTTracking
 - Giờ bắt đầu: 16:30
 - Giờ kết thúc: 18:05
